@@ -1,0 +1,2 @@
+git config --global user.name "damapoint"
+git config --global user.email "damapointmarketing@gmail.com"
